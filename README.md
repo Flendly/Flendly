@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Flendly
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning everythn
+- (0_0) and 4 degrees myopia
