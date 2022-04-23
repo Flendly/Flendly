@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flendly
+- 👋 Hi, I’m Flendly
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning everythin'
 -  And 4 degrees myopia (•‿•)
