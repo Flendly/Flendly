@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Flendly
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in cybersecurity and computer science
 - 🌱 I’m currently learning everythin'
--  And 6 degrees myopia (•‿•)
+-  And I'm 6 degrees myopia (•‿•)
