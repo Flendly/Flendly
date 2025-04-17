@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m Flendly<br>    👀 I’m interested in cybersecurity, computer programming, reverse engineering and other CS related stuff<br>    🌱 I’m currently learning everythin'<br>    And I'm 6 degrees myopia (•‿•)<br><br>
+<br>    👋 Hi, I’m Flendly<br>    👀 I’m interested in cybersecurity, maths, computer programming, reverse engineering and other CS related stuff<br>    🌱 I’m currently learning everythin'<br>    And I'm 6 degrees myopia (•‿•)<br><br>
 
 
 # 💻 Tech Stack:
